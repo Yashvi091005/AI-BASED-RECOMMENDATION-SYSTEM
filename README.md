@@ -102,3 +102,5 @@ Instructions to run, including Maven setup or JAR dependencies
 Task 4 was a solid introduction to machine learning in Java, especially in the context of recommendation systems. It bridged the gap between core Java and modern AI/ML applications. The use of Apache Mahout made it scalable and modular. This task completed the internship with a hands-on AI project that simulates real industry use-cases. The project is ready for enhancement through deeper ML algorithms, UI layers, or deployment.
 
 OUTPUT: 
+
+<img width="743" height="178" alt="Image" src="https://github.com/user-attachments/assets/11925d7c-05f3-40f4-ac3f-c3120a9890b7" />
